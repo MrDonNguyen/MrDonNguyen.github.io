@@ -47,7 +47,7 @@ table {
     margin: auto;
 }
 
-#content u1, #content ol{
+#content ul, #content ol{
     margin:auto;
     width:25%;
 }
